@@ -1,0 +1,21 @@
+body {font-family: Arial, Helvetica, sans-serif; background-color: #FFF8DC;}
+#botones {
+display:none;
+text-align: center;
+}
+#formulario{
+  display:none;
+}
+table { font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif; font-size: 12px; margin: 5%; width: 90%;
+    text-align: center; border-collapse: collapse; box-shadow: 1px 1px 5px black;}
+th { font-size: 13px; font-weight: normal; padding: 8px; background: #b9c9fe; border-top: 4px solid #aabcfe;
+    border-bottom: 1px solid #fff; color: #039; }
+td { padding: 8px; background: #e8edff; border-bottom: 1px solid #fff; color: #669; border-top: 1px solid transparent; }
+tr:hover td { background: #d0dafd; color: #339; }
+.boton {color: black; padding: 5px; margin: 10px;
+  background-color: #b9c9fe;
+  font-weight: bold; 
+  margin-left: 50%;
+  cursor: pointer;
+}
+.editar {color: blue; cursor:pointer;}
